@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prims-kruskal", "prims-kruskal.csproj", "{2FD19307-8FE2-4644-9065-F41D3949463F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD19307-8FE2-4644-9065-F41D3949463F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD19307-8FE2-4644-9065-F41D3949463F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD19307-8FE2-4644-9065-F41D3949463F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD19307-8FE2-4644-9065-F41D3949463F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5797A72-AD12-49AE-852F-CA5815A49F82}
+	EndGlobalSection
+EndGlobal
